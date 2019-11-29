@@ -1,5 +1,4 @@
-var contractAbi = [
-			
+var contractAbi = [	
 	{
 		"constant": false,
 		"inputs": [
