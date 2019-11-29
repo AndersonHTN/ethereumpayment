@@ -1,4 +1,5 @@
 var contractAbi = [
+			
 	{
 		"constant": false,
 		"inputs": [
@@ -85,5 +86,6 @@ var contractAbi = [
 		"payable": false,
 		"stateMutability": "view",
 		"type": "function"
+
 	}
 ];
